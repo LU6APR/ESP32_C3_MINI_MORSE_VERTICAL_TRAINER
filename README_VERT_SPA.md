@@ -23,7 +23,7 @@ El dispositivo permite:
 
 ## 2. IMAGEN DEL CIRCUITO  
 
-<img width="1971" height="1354" alt="circuit_image" src="https://github.com/user-attachments/assets/04f94726-7019-4d6b-8713-7bc5f921db1e" />  
+<img width="1971" height="1354" alt="circuit_image" src="https://github.com/user-attachments/assets/circuit_image VERT.png" />  
 
 ---
 
