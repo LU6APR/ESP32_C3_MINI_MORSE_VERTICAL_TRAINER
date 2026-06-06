@@ -23,6 +23,7 @@ El dispositivo permite:
 
 ## 2. IMAGEN DEL CIRCUITO  
 
+![Diagrama del Circuito](circuit_image_VERT.png)
 
 ---
 
