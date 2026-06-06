@@ -23,8 +23,7 @@ The device allows you to:
 
 ## 2. CIRCUIT IMAGE  
 
-[<img width="1971" height="1354" alt="circuit_image" src="https://github.com/user-attachments/assets/circuit_image_VERT.png" />  
-](https://github.com/LU6APR/ESP32_C3_MINI_MORSE_VERTICAL_TRAINER/blob/ff6ea5e309458806848c5abeae345627348629fe/circuit_image_VERT.png)
+
 ---
 
 ## 3. SETUP AND UPLOAD  
