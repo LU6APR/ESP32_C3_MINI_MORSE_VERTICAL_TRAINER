@@ -23,6 +23,7 @@ The device allows you to:
 
 ## 2. CIRCUIT IMAGE  
 
+![Circuit Diagram](circuit_image_VERT.png)
 
 ---
 
