@@ -14,9 +14,7 @@ El dispositivo permite:
 - Transmitir código Morse mediante una **clave vertical** (pulsador único)  
 - Decodificar automáticamente el código Morse enviado  
 - Mostrar el texto decodificado en una pantalla **OLED (4 líneas)**  
-- Ajustar la velocidad de transmisión (WPM)  
 - Espaciado automático después de 1 segundo de pausa  
-- Borrado automático de pantalla al completar 4 líneas  
 - Borrado manual con pulsación corta del botón  
 
 ---
