@@ -14,9 +14,7 @@ The device allows you to:
 - Transmit Morse code using a **vertical key** (single button/lever)  
 - Automatically decode the transmitted Morse code  
 - Display the decoded text on an **OLED screen (4 lines)**  
-- Adjust the transmission speed (WPM)  
 - Automatic spacing after 1 second of pause  
-- Automatic screen clearing after 4 lines are completed  
 - Manual clearing with a short button press  
 
 ---
