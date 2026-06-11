@@ -50,8 +50,10 @@ El proyecto también puede armarse **sin la pantalla OLED**, funcionando igualme
 | Ajuste de WPM        | Sí                           | Sí                       |
 
 ---
+## 6. CASE
+https://www.printables.com/model/1751233-case-cw-trainer-for-vertical-or-iambic-key
 
-## 6. AUTOR Y LICENCIA  
+## 7. AUTOR Y LICENCIA  
 
 **LU6APR Pablo Ramos**  
 Proyecto de código abierto.  
