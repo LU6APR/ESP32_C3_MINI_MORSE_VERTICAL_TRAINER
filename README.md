@@ -51,7 +51,12 @@ The project can also be built **without the OLED screen**, still functioning as 
 
 ---
 
-## 6. AUTHOR AND LICENSE  
+## 6. CASE
+https://www.printables.com/model/1751233-case-cw-trainer-for-vertical-or-iambic-key
+
+## 7. AUTHOR AND LICENSE  
 
 **LU6APR Pablo Ramos**  
 Open source project.  
+
+
